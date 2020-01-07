@@ -1,0 +1,79 @@
+
+ body{
+  background-color: white;
+}
+
+hr {
+  border-style: solid none none;
+  width: 15%;
+  border-color: #6ba8a9;
+  border-width: 4px;
+  float: left;
+  margin: 5px auto;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+}
+
+h1 {
+  color: #1d4d4f;
+  font-family: serif;
+  font-size: 45px;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  font-weight: lighter;
+}
+
+.onlineResume {
+  font-family: monospace;
+  font-size: 20px;
+}
+
+img {
+  border-radius: 100%;
+  width: 180px;
+  height: auto;
+}
+
+img:hover {
+  background-color: white;
+}
+
+h3 {
+  color: #357376;
+  font-family: cursive;
+  font-size: 19px;
+  letter-spacing: 2px;
+  font-weight: lighter;
+}
+
+h4 {
+  color: #6ba8a9;
+  font-family: cursive;
+  letter-spacing: 2px;
+  font-weight: lighter;
+}
+
+h5 {
+  font-weight: 200;
+}
+
+table {
+  font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
